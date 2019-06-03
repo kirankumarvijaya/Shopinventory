@@ -1,0 +1,69 @@
+{
+    "inventory":[
+        {
+            "prodName": "Nike Shoes",
+            "dealersName":"Flipkart",
+            "price":"12"
+        },
+        {
+            "prodName": "Nike Bag",
+            "dealersName":"Flipkart",
+            "price":"25"
+        },
+        {
+            "prodName": "Nike Tshirt",
+            "dealersName":"Flipkart",
+            "price":"8"
+        },
+        {
+            "prodName": "Adidas Shoes",
+            "dealersName":"Amazon",
+            "price":"15"
+        },
+        {
+            "prodName": "Adidas Bag",
+            "dealersName":"Amazon",
+            "price":"40"
+        },
+        {
+            "prodName": "Adidas Tshirt",
+            "dealersName":"Amazon",
+            "price":"10"
+        },
+        {
+            "prodName": "Adidas Shorts",
+            "dealersName":"Amazon",
+            "price":"9"
+        },
+        {
+            "prodName": "Puma Shoes",
+            "dealersName":"Shopclues",
+            "price":"20"
+        },
+        {
+            "prodName": "Puma Bags",
+            "dealersName":"Shopclues",
+            "price":"50"
+        },
+        {
+            "prodName": "Puma Tshirt",
+            "dealersName":"Shopclues",
+            "price":"22"
+        },
+        {
+            "prodName": "Puma Shorts",
+            "dealersName":"Shopclues",
+            "price":"18"
+        },
+        {
+            "prodName": "Puma Vest",
+            "dealersName":"Shopclues",
+            "price":"11"
+        },
+        {
+            "prodName": "WildCraft Bags",
+            "dealersName":"Wildcraft",
+            "price":"50"
+        }
+    ]
+}

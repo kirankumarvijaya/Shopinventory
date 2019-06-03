@@ -1,0 +1,2 @@
+export const ADD_PRODUCT_DATA = "ADD_PRODUCT_DATA";
+export const DELETE_PROD_DATA = "DELETE_PROD_DATA";

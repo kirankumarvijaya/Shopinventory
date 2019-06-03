@@ -1,0 +1,3 @@
+rootProject.name = 'shopinventory'
+
+include ':app'
